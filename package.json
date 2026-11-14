@@ -4,8 +4,8 @@
   "description": "JAWAD-MD, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
   "main": "./index.js",
   "type": "commonjs",
-  "--engines": {
-    "node": ">=20.0.0"
+  "engines": {
+    "node": "18.x"
   },
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name JAWAD-MD",
