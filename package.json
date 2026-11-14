@@ -69,3 +69,6 @@
   },
   "homepage": "https://github.com/JawadTechXD/JAWAD-MD#readme"
 }
+"engines": {
+  "node": "18.x"
+}
